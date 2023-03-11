@@ -1,3 +1,2 @@
-# pos_backend_iesp
-Pos Graduacao em BackEnd Jr Uniesp
-
+# posbackpoo
+Repositório criado para manter os códigos discutidos em aula. E mais algumas coisas extras.
